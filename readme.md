@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/KemoLD/JWT_Authentication_Microservice.git
 ```
 
 2. Install dependencies
